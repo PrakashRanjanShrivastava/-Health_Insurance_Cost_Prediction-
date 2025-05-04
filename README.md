@@ -105,3 +105,8 @@ The dataset consists of **1338 records** and **7 features**:
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn
 - pickle
+
+## 📬 Contact
+
+Made with ❤️ by [Prakash Ranjan](https://github.com/PrakashRanjanShrivastava)  
+📧 prkashranjan22@gmail.com
