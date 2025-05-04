@@ -12,6 +12,8 @@ To estimate the **medical insurance cost** for an individual based on factors li
 
 ## 🧾 Dataset Overview
 
+<a herf="https://github.com/PrakashRanjanShrivastava/-Health_Insurance_Cost_Prediction-/blob/main/Data%20Set/insurance.csv">Insurance_Data</a>
+
 The dataset consists of **1338 records** and **7 features**:
 - `age`: Age of the primary beneficiary
 - `sex`: Gender of the beneficiary
